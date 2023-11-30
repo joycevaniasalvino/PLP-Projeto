@@ -1,7 +1,7 @@
 # Projeto PLP 
 Projeto da disciplina de Paradigmas de Linguagens de Programação
 
-## CRUD - Sistema de gerenciamento de contatos
+## CRUD FullStack - Sistema de gerenciamento de contatos
 
 ### Listando contatos
 <img src="./frontend/src/images/Captura de tela 2023-11-30 181829.png" alt="Tela listando contatos">
@@ -19,3 +19,10 @@ Projeto da disciplina de Paradigmas de Linguagens de Programação
 <img src="./frontend/src/images/Captura de tela 2023-11-30 180659.png" alt="Tela editando contato">
 
 <img src="./frontend/src/images/Captura de tela 2023-11-30 180714.png" alt="Tela exibindo alteração feita no contato editado">
+
+
+## Tecnologias
+-> JavaScript
+-> Node.js
+-> React.js
+-> MySQL
