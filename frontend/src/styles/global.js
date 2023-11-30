@@ -13,7 +13,7 @@ const Global = createGlobalStyle`
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #146000;
+    background-color: #5f00a3;
   }
 `;
 

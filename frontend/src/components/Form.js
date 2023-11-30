@@ -12,6 +12,8 @@ const FormContainer = styled.form`
   padding: 20px;
   box-shadow: 0px 0px 5px #ccc;
   border-radius: 5px;
+  width: 93.5%;
+  justify-content: space-evenly;
 `;
 
 const InputArea = styled.div`
@@ -20,7 +22,7 @@ const InputArea = styled.div`
 `;
 
 const Input = styled.input`
-  width: 120px;
+  width: 130px;
   padding: 0 10px;
   border: 1px solid #bbb;
   border-radius: 5px;
