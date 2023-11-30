@@ -22,7 +22,9 @@ Projeto da disciplina de Paradigmas de Linguagens de Programação
 
 
 ## Tecnologias
--> JavaScript
--> Node.js
--> React.js
--> MySQL
+<ul>
+    <li>JavaScript</li>
+    <li>Node.js</li>
+    <li>React.js</li>
+    <li>MySQL</li>
+</ul>
